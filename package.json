@@ -1,21 +1,22 @@
 {
-    "name": "awesome-web-testing-playwright",
-    "version": "1.0.0",
-    "description": "This repository contains the [Automation Panda](https://automationpanda.com/)'s official Playwright tutorial!",
-    "main": "index.js",
-    "scripts": {},
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/AutomationPanda/awesome-web-testing-playwright.git"
-    },
-    "keywords": [],
-    "author": "",
-    "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/AutomationPanda/awesome-web-testing-playwright/issues"
-    },
-    "homepage": "https://github.com/AutomationPanda/awesome-web-testing-playwright#readme",
-    "devDependencies": {
-      "@playwright/test": "^1.36.1"
-    }
+  "name": "awesome-web-testing-playwright",
+  "version": "1.0.0",
+  "description": "This repository contains the [Automation Panda](https://automationpanda.com/)'s official Playwright tutorial!",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AutomationPanda/awesome-web-testing-playwright.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AutomationPanda/awesome-web-testing-playwright/issues"
+  },
+  "homepage": "https://github.com/AutomationPanda/awesome-web-testing-playwright#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.45.3",
+    "@types/node": "^20.14.12"
   }
+}
