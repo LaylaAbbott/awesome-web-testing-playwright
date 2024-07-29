@@ -50,5 +50,6 @@ export class LoginPage {
                 break
         }
         await this.passwordField.fill(allUsersPassword);
+        await this.loginButton.click();
     }
 }
