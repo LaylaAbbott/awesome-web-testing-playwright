@@ -1,4 +1,4 @@
-import { test, expect } from './fixtures/trello-test';
+import { test, expect } from '../fixtures/fixtures';
 
 test.describe('Trello-like board', () => {
     let boardName: string;
