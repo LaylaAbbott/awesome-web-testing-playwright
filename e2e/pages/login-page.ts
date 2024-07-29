@@ -51,5 +51,4 @@ export class LoginPage {
         }
         await this.passwordField.fill(allUsersPassword);
     }
-
 }

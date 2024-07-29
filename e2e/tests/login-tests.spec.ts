@@ -1,8 +1,5 @@
 import { test } from "../../fixtures/fixtures";
-import { UserType} from "../../helpers/user-info";
-/* 
-test.describe('Validating that the inventory page cannot be accessed', async () => {
-}) */
+import { UserType } from "../../helpers/user-info";
 
 test.describe('Log in tests', async () => {
     const userTypes = [UserType.standardUser, UserType.errorUser, UserType.lockedOutUser, UserType.performanceGlitchUser, UserType.problemUsername, UserType.visualUser]
@@ -15,5 +12,3 @@ test.describe('Log in tests', async () => {
         });
     }
 })
-
-

@@ -1,7 +1,6 @@
 import type { Page } from '@playwright/test';
 import type { Locator } from '@playwright/test';
 
-
 export class InventoryPage {
     page: Page;
     //Button locators
